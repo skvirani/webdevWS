@@ -1,0 +1,7 @@
+Tags
+  HTML - needed for every HTML doc
+  head - for the top of the webpage
+  body - for the body of the webpage
+  a - link or reference
+  href - hyperlink
+  classes are seperated by spaces so if class="a b c d e" will make 5 classes
